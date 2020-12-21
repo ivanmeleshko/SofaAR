@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstScene.unity
+    guid: 2d10fc3a92cf63c419da94319a5099bb
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Reception1Scene.unity
+    guid: 6da7e8fca7f81344a87c2ff111d84f32
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Reception2Scene.unity
+    guid: 392b8d77a8efc974d91602c9560443f9
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Reception3Scene.unity
+    guid: 7b31e957ef1346142828af04d0fb19b4
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/VestibulScene.unity
+    guid: abd9d94509298ca42922173a04a80625
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Roof1Scene.unity
+    guid: 843756efc6c68aa49838bd845ddd5c07
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/KitcheningScene.unity
+    guid: 85b5ff521c0174343a54beca687a7d47
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/ExtFront1Scene.unity
+    guid: 38e94a0666fabf8419e30e7a163abf60
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Garden2Scene.unity
+    guid: 02d5ec9e73f11b64b8481ccc99c6ebd3
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/RoofLivingScene.unity
+    guid: b6ebfec03c275964182ae61ef230d8dd
+  - enabled: 1
+    path: Assets/Scenes/Anchors.unity
+    guid: 5cba9114a192a46a7aef31da62316e39
+  - enabled: 0
+    path: Assets/StreamingAssets/Scenes/Garden1Scene.unity
+    guid: beb20cf6828dd4f4e81a3da4965e63c4
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ff696a0207f12c448aab3ed4474fbaf2,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 90566271e5d6ba64382e2ad3004ce232,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 37fbc8aeb0a28bd4fad51e5e2be767a5,
+      type: 2}
+    com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 630792fcd56bc974da31711e24de3760,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e7d9bbbee05aa7d4ead90ba24c105e7c,
+      type: 2}
